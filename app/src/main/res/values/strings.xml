@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BootCounter</string>
+
+    <string name="no_boots_detected">No boots detected</string>
+    <string name="detected_boots">The boot was detected with the timestamp = </string>
+    <string name="last_boots_delta">Last boots time delta = </string>
+
+    <string name="default_notification_channel_id">default_channel</string>
+</resources>
